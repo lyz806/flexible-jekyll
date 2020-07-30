@@ -2,7 +2,7 @@
 layout: post
 title: 無所事事小海豹
 date: 2020-07-30 
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: description # Add post description (optional)
 img: nothingseal.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [無所事事, 小海豹]
